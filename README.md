@@ -8,6 +8,6 @@ The project was developed in Mirochip studio and an Arduino mega(ATmega 2560p), 
 4. Change the Wifi SSID and password in the `esp32_blynk_module.ino` file to the target network.
 5. Flash the esp32 code onto the ESP32 Feather V2 and power both microcontrollers. A specialized Blynk joystick app is required to connect to the Feather V2 for player inputs.
 
-Devpost Link: 
+Devpost Link: https://devpost.com/software/trawn
 
-Video Link: 
+Video Link: https://www.youtube.com/watch?v=0pfpQ1ARy7Y
